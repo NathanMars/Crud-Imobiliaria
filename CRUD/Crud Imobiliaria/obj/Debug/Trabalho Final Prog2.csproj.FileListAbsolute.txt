@@ -1,0 +1,227 @@
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe.config
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Properties.Resources.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Forms1.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Cliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Imovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoCompra.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraCliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraImovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaCliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaContratos.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaImovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoAluguel.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe.config
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.pdb
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.AssemblyReference.cache
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraCliente.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraImovel.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Cliente.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaCliente.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaContratos.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaImovel.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoCompra.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoAluguel.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Forms1.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Imovel.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Properties.Resources.resources
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.GenerateResource.cache
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.CoreCompileInputs.cache
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.exe
+C:\Faculdade\Prog2\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraCliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraImovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Cliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaCliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaContratos.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaImovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoCompra.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoAluguel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Forms1.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Imovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Properties.Resources.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe.config
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraCliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraImovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Cliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaCliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaContratos.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaImovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoCompra.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoAluguel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Forms1.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Imovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Properties.Resources.resources
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.exe
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria 2\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe.config
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.exe
+C:\Users\natha\OneDrive\Área de Trabalho\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraCliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraImovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Cliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaCliente.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaImovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoCompra.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoAluguel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Forms1.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Imovel.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Properties.Resources.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe.config
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\EnvDTE.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\stdole.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.CopyComplete
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.RelataClientes.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.RelataContratos.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Teste\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.RelataImoveis.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe.config
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.exe
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Trabalho Final Prog2.pdb
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\EnvDTE.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.AssemblyReference.cache
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraCliente.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.AlteraImovel.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Cliente.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaCliente.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ConsultaImovel.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoCompra.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.ContratoAluguel.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Forms1.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Imovel.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.Properties.Resources.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.RelataClientes.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.RelataContratos.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho_Final_Prog2.RelataImoveis.resources
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.GenerateResource.cache
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.csproj.CoreCompileInputs.cache
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho.25125BAF.Up2Date
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.exe
+C:\Users\nmarques\Downloads\CRUD_Imobiliaria\Trabalho Final Prog2\Trabalho Final Prog2\obj\Debug\Trabalho Final Prog2.pdb

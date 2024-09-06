@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Crud Imobiliaria.csproj|c:\\users\\nmarques\\downloads\\crud_imobiliaria\\trabalho final prog2\\trabalho final prog2\\alteracliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Crud Imobiliaria.csproj|solutionrelative:trabalho final prog2\\alteracliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Crud Imobiliaria.csproj|c:\\users\\nmarques\\downloads\\crud_imobiliaria\\trabalho final prog2\\trabalho final prog2\\consultaimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Crud Imobiliaria.csproj|solutionrelative:trabalho final prog2\\consultaimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Crud Imobiliaria.csproj|c:\\users\\nmarques\\downloads\\crud_imobiliaria\\trabalho final prog2\\trabalho final prog2\\consultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Crud Imobiliaria.csproj|solutionrelative:trabalho final prog2\\consultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Crud Imobiliaria.csproj|c:\\users\\nmarques\\downloads\\crud_imobiliaria\\trabalho final prog2\\trabalho final prog2\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Crud Imobiliaria.csproj|solutionrelative:trabalho final prog2\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Trabalho Final Prog2.csproj|c:\\users\\nmarques\\downloads\\crud_imobiliaria\\trabalho final prog2\\trabalho final prog2\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Trabalho Final Prog2.csproj|solutionrelative:trabalho final prog2\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Trabalho Final Prog2.csproj|C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\trabalho final prog2\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4AEB2F-857E-4781-8AE1-4F840F76456A}|Trabalho Final Prog2\\Trabalho Final Prog2.csproj|solutionrelative:trabalho final prog2\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultaImovel.cs",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\ConsultaImovel.cs",
+              "RelativeDocumentMoniker": "Trabalho Final Prog2\\ConsultaImovel.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\ConsultaImovel.cs",
+              "RelativeToolTip": "Trabalho Final Prog2\\ConsultaImovel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:19:08.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\ConsultaCliente.cs",
+              "RelativeDocumentMoniker": "Trabalho Final Prog2\\ConsultaCliente.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\ConsultaCliente.cs",
+              "RelativeToolTip": "Trabalho Final Prog2\\ConsultaCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:18:50.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\Cliente.cs",
+              "RelativeDocumentMoniker": "Trabalho Final Prog2\\Cliente.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\Cliente.cs",
+              "RelativeToolTip": "Trabalho Final Prog2\\Cliente.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:18:40.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlteraCliente.cs",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\AlteraCliente.cs",
+              "RelativeDocumentMoniker": "Trabalho Final Prog2\\AlteraCliente.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\AlteraCliente.cs",
+              "RelativeToolTip": "Trabalho Final Prog2\\AlteraCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:18:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Forms1.cs",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\Forms1.cs",
+              "RelativeDocumentMoniker": "Trabalho Final Prog2\\Forms1.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\Forms1.cs",
+              "RelativeToolTip": "Trabalho Final Prog2\\Forms1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:03:26.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Forms1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\Forms1.cs",
+              "RelativeDocumentMoniker": "Trabalho Final Prog2\\Forms1.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Downloads\\CRUD_Imobiliaria\\Trabalho Final Prog2\\Trabalho Final Prog2\\Forms1.cs [Design]",
+              "RelativeToolTip": "Trabalho Final Prog2\\Forms1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:03:26.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
